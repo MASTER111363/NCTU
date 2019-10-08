@@ -18,6 +18,4 @@ Parameters:
 
 # Results
 
-## CIFAR-100
-
 Test accuracy (%) of HN on CIFAR-100 on PreResNet164 (150) is  80.35 ± 0.16 
