@@ -1,5 +1,9 @@
 # HAPPYNET
 
+# Requirement
+* [PyTorch](http://pytorch.org/)
+* [torchvision](https://github.com/pytorch/vision/)
+* [tabulate](https://pypi.python.org/pypi/tabulate/)
 # Usage
 To run SWA use the following command:
 
