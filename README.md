@@ -1,4 +1,4 @@
-# HAPPYNET(HN)
+# HAPPYNET (HN)
 
 # Requirement
 * [PyTorch](http://pytorch.org/)
