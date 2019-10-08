@@ -20,8 +20,6 @@ Parameters:
 
 ## CIFAR-100
 
-Test accuracy (%) of SGD and SWA on CIFAR-100 for different training budgets. For each model the _Budget_ is defined as the number of epochs required to train the model with the conventional SGD procedure.
+Test accuracy (%) of HN on CIFAR-100 
 
-|                           | SWA 1.5 Budgets |
-| ------------------------- |:---------------:|
 | PreResNet164 (150)        | 80.35 ± 0.16    |
