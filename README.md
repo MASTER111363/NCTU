@@ -21,5 +21,5 @@ Parameters:
 ## CIFAR-100
 
 Test accuracy (%) of HN on CIFAR-100 
-
+| ------------------------- |:---------------:|
 | PreResNet164 (150)        | 80.35 ± 0.16    |
