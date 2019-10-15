@@ -19,6 +19,7 @@ Parameters:
 # Results
 
 Test accuracy (%) of HN on CIFAR-100 on PreResNet164 (150) is  80.35 ± 0.16 
+Our model has 1.7M parameters.
 
 # Train Model From Scratch
 To train HN use the following command:
