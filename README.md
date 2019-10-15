@@ -27,3 +27,7 @@ To train HN use the following command:
 ```bash
 python3 train.py --dir=<DIR> --dataset=CIFAR100 --data_path=<PATH>  --model=PreResNet164 --epochs=225 --lr_init=0.1 --wd=3e-4 --swa --swa_start=126 --swa_lr=0.05
 ``` 
+# Our approach
+We use the SWA method to train our model
+[SWA](https://github.com/timgaripov/swa?fbclid=IwAR1mtlrD1ikbFsq0R2LD6-ceU9wu6iKqY6AEOQ1svtwprO4l6beiKLaQy0M)
+
